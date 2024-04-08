@@ -1,6 +1,6 @@
 # The King of Useless
 
-I am the Useless King,
+I am the **Useless King**,
 
 With void and null in tow,
 
@@ -9,13 +9,17 @@ My code's a tangled thing,
 With bugs that always grow.
 
 
+
+
 Endless loops, they plague,
 
 Errors come by the score,
 
 Pointers dangle, like a tease,
 
-I plead, "Give me no more!"
+I plead, *Give me no more!*
+
+
 
 
 Arrays out of bounds,
@@ -24,7 +28,9 @@ Exceptions all around,
 
 In this realm, I'm crowned - 
 
-The Useless King renowned.
+**The Useless King** renowned.
+
+
 
 
 So let me rule this scene,
@@ -36,15 +42,18 @@ Where logic twists as spaghetti,
 And order's but a dream.
 
 
+
 # 无用之王
 
-我是无用之王，
+我是**无用之王**，
 
 携空寂与虚无。
 
 代码纠缠难理清，
 
 漏洞百出如虫蛀。
+
+
 
 
 无尽循环来折磨，
@@ -56,13 +65,17 @@ And order's but a dream.
 苦苦哀求仍重现。
 
 
+
+
 数组越界访问频，
 
 异常四面八方生，
 
 在这领域任我冕，
 
-无用之王众所闻。
+**无用之王**众所闻。
+
+
 
 
 混沌之国志趣盎，
